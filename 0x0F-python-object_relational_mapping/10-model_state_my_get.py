@@ -26,5 +26,4 @@ if __name__ == "__main__":
         print(element)
     else:
         print("Not Found")
-
     Session.close()
